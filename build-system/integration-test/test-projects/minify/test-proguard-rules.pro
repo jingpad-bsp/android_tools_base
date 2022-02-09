@@ -1,1 +1,0 @@
--dontwarn org.hamcrest.beans.**
